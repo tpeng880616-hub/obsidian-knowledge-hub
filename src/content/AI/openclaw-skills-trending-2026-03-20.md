@@ -1,18 +1,33 @@
-# OpenClaw 热门 Skills 精选 2026-03-20
+# OpenClaw 热门 Skills Top 20 精选 2026-03-20
 
 > 更新日期: 2026-03-20
 
 ---
 
-## 🔥 OpenClaw Skills 概览
+## 🔥 OpenClaw Skills Top 20
 
-| 类别 | 数量 | 热度 |
-|------|------|------|
-| **运维管理** | ⭐⭐⭐⭐⭐ | 最热 |
-| **安全加固** | ⭐⭐⭐⭐ | 热门 |
-| **部署配置** | ⭐⭐⭐⭐ | 常用 |
-| **调试排障** | ⭐⭐⭐⭐ | 实用 |
-| **文档查询** | ⭐⭐⭐ | 必备 |
+| 排名 | Skill | 功能 | 评分 |
+|------|-------|------|------|
+| 1 | **claw-shell** | Shell 命令执行 | 3.685 |
+| 2 | **openclaw-cli** | CLI 操作助手 | 3.644 |
+| 3 | **agent-team-orchestration** | 多Agent编排 | 3.618 |
+| 4 | **openclaw-server-secure-skill** | 服务器安全加固 | 3.576 |
+| 5 | **agent-directory** | Agent 目录服务 | 3.581 |
+| 6 | **create-new-openclaw-in-gcp** | GCP 一键部署 | 3.558 |
+| 7 | **ai-agent-helper** | Agent 优化助手 | 3.557 |
+| 8 | **openclaw-shield** | 企业安全扫描 | 3.552 |
+| 9 | **openclaw-ops-guardrails** | 运维防呆排障 | 3.541 |
+| 10 | **openclaw-mcp-debugger** | MCP 调试器 | 3.514 |
+| 11 | **agent** | 通用 Agent | 3.493 |
+| 12 | **openclaw-docs-cn** | 中文官方文档 | 3.472 |
+| 13 | **openclaw-power-ops** | Power 运维管理 | 3.462 |
+| 14 | **multi-agent-collaboration** | 多智能体协作 | 3.456 |
+| 15 | **openclaw-error-fix** | 常见错误修复 | 3.448 |
+| 16 | **ws-agent-browser** | 浏览器智能控制 | 3.419 |
+| 17 | **openclaw-elite-watcher** | 情报监控系统 | 3.414 |
+| 18 | **gateway-watchdog** | Gateway 监控 | 3.381 |
+| 19 | **nochat-channel-plugin** | 加密通讯通道 | 3.404 |
+| 20 | **gateway-notify** | Gateway 通知 | 3.373 |
 
 ---
 
